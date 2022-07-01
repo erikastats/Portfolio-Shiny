@@ -1,0 +1,12 @@
+name: Portfolio
+title: Portfolio
+username:
+account: erikastats
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 3913110
+bundleId: 4434371
+url: https://erikastats.shinyapps.io/Portfolio/
+when: 1617647798.12544
+asMultiple: FALSE
+asStatic: FALSE
